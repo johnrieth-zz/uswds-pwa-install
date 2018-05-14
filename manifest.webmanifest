@@ -1,0 +1,15 @@
+{
+    "background_color": "blue",
+    "description": "Shows random fox pictures. Hey, at least it isn't cats.",
+    "display": "fullscreen",
+    "icons": [
+      {
+        "src": "icon/favicon-192.png",
+        "sizes": "192x192",
+        "type": "image/png"
+      }
+    ],
+    "name": "U.S. Web Design System PWA",
+    "short_name": "USWDS",
+    "start_url": "/"
+  }
