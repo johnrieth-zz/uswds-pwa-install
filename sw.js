@@ -7,7 +7,9 @@ self.addEventListener('install', function(e) {
         'uswds.min.js',
         'styleguide.css',
         'assets/fonts/',
-        'assets/img/'
+        'assets/img/favicons/favicon-57.png',
+        'assets/img/hero.png'
+
       ]);
     })
   );
