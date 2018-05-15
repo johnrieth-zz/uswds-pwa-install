@@ -7,6 +7,9 @@
 
   <!-- Set character encoding -->
   <meta charset="utf-8">
+  
+<meta name="theme-color" content="#112e51">
+
 
   <!-- Set title -->
   <title>U.S. Web Design System</title>
@@ -286,12 +289,12 @@
         </div>
       </div>
     </footer>
-    <script src="js/uswds.min.js"></script>
+    <script src="uswds.min.js"></script>
 
   <script>
     if ('serviceWorker' in navigator) {
       window.addEventListener('load', () => {
-        navigator.serviceWorker.register('/sw.js')
+        navigator.serviceWorker.register('sw.js')
           .then(registration => {
             console.log(`Service Worker registered! Scope: ${registration.scope}`);
           })
