@@ -25,8 +25,8 @@ self.addEventListener('install', function(e) {
         'assets/fonts/merriweather-regular-webfont.woff2',
         'assets/fonts/sourcesanspro-regular-webfont.woff',
         'assets/fonts/merriweather-bold-webfont.woff',
-        'assets/fonts/merriweather-regular-webfont.woff',
-        
+        'assets/fonts/merriweather-regular-webfont.woff'
+      
 
 
 
