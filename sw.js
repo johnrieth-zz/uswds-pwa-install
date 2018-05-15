@@ -17,7 +17,7 @@ self.addEventListener('install', function(e) {
         'assets/img/social-icons/svg/twitter16.svg',
         'assets/img/social-icons/svg/facebook25.svg',
         'assets/fonts/sourcesanspro-bold-webfont.ttf',
-        'assets/fonts/merriweather-regular-webfont.ttf',
+        'assets/fonts/merriweather-regular-webfont.ttf'
         
 
 
