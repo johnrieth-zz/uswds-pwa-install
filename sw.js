@@ -17,15 +17,7 @@ self.addEventListener('install', function(e) {
         'assets/img/social-icons/svg/youtube15.svg',
         'assets/img/social-icons/svg/twitter16.svg',
         'assets/img/social-icons/svg/facebook25.svg',
-        'assets/img/social-icons/svg/rss25.svg',
-        'assets/fonts/sourcesanspro-bold-webfont.ttf',
-        'assets/fonts/merriweather-regular-webfont.ttf',
-        'assets/fonts/sourcesanspro-bold-webfont.woff2',
-        'assets/fonts/merriweather-bold-webfont.woff2',
-        'assets/fonts/merriweather-regular-webfont.woff2',
-        'assets/fonts/sourcesanspro-regular-webfont.woff',
-        'assets/fonts/merriweather-bold-webfont.woff',
-        'assets/fonts/merriweather-regular-webfont.woff'
+        'assets/img/social-icons/svg/rss25.svg'
       
 
 
